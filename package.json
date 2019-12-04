@@ -53,6 +53,11 @@
 					"default": "Your name",
 					"description": "Your name"
 				},
+				"fileheader.url": {
+					"type": "string",
+					"default": "Your website",
+					"description": "Your website"
+				},
 				"fileheader.dateformat": {
 					"type": "string",
 					"default": "YYYY-MM-DD HH:mm:ss",
