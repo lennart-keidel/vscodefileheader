@@ -231,6 +231,7 @@ function insert_header_body(editor:any, config:any):void{
 			create_time: date,
 			last_modified_by: config.author,
 			last_modified_time: date,
+			url: config.url
 		});
 
 
